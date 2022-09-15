@@ -1,6 +1,6 @@
-# pyscripts
+# scripts
 
-实用python脚本
+各种实用脚本
 
 ## mooc-search
 
@@ -25,3 +25,13 @@
 
 - UI重写
 - 代码精简重构
+
+## xdu-api
+
+[开发中]西电一站式服务api。
+
+为后续整活攒点api（不是
+
+## aria-webui
+
+开启aria2c的web控制台。配合<aria2c.com>+内网穿透就是一个远程下载机了。
