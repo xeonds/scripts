@@ -1,37 +1,26 @@
 # scripts
 
-各种实用脚本
+各种实用脚本，包括运维/自动化/爬虫/小工具等
 
-## mooc-search
+## 目录
 
-[开发中]慕课搜题工具
-
-输入关键词进行搜题
-
-- TODO
-
-- 支持浏览器元素选择，增强搜题体验
-- 自动答题模式
-- 增加更多数据源
-- UI美化。环境集成，打包成单文件程序
-
-## dir-sort
-
-[开发中]目录整理工具
-
-根据文件后缀/文件名/修改日期对选定目录文件进行递归整理
-
-- TODO
-
-- UI重写
-- 代码精简重构
-
-## xdu-api
-
-[开发中]西电一站式服务api。
-
-为后续整活攒点api（不是
-
-## aria-webui
-
-开启aria2c的web控制台。配合<aria2c.com>+内网穿透就是一个远程下载机了。
+- 一键评教：西电期末评教脚本
+- aliDDNS：自动更新阿里云DDNS
+- aria-webui：启动aria2c的web控制台
+- bilibili-down-to-folder：把B站UWP离线的视频转换为mp4
+- click-simulate：鼠标点击模拟器
+- cs-news：爬计算机论文的脚本
+- dir-sort：目录整理工具
+- how-much-did-i-write：统计我的hexo博客写了多少字的脚本
+- itnews：爬IT之家新闻的脚本
+- k-down：下载视频的工具，里面还有一个网易云下载脚本，一个超星阅读材料下载脚本
+- mooc-search：慕课搜题工具
+- page-grep：爬取页面内容，并且给你发邮件的脚本
+- phigros-backup：备份/还原phigros的存档
+- pushplus：将输入的内容发送给pushplus API
+- rename：根据映射规则批量重命名文件
+- trans-storage：将数据转移到另一处，并留下硬链接不影响其他程序运行
+- translate：翻译工具
+- weibo-spider：爬微博的脚本
+- xdu-api：西电一站式服务api
+- xdu-course-select：西电抢课脚本，依赖Chrome
